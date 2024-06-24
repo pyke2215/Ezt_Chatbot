@@ -2,3 +2,4 @@ Django
 python-dotenv
 openai
 requests
+django-cors-headers

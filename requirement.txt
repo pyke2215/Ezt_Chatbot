@@ -1,3 +1,4 @@
 Django
-dotenv
+python-dotenv
 openai
+requests
